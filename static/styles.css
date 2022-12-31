@@ -1,3 +1,4 @@
+/* 侧边栏 */
 .navigation {
     position: fixed;
     opacity: 0.7;
@@ -41,9 +42,9 @@
     color: bisque;
 }
 
-
+/* 顶部icon和标题 */
 .icon {
-    position: absolute;
+    position: fixed;
     padding-left: 2rem;
     height: 5rem;
     width: 5rem;
@@ -67,6 +68,7 @@
     overflow: hidden;
 }
 
+/* 正文 */
 .introduction {
     margin-top: 6rem;
     margin-left: 12rem;
